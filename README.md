@@ -7,7 +7,7 @@ Details of the project are summarised in the [Project Report](https://github.com
 ## Deliverables
 MATLAB GUI Application
 
-![My Image](Picture1.jpg)
+![My Image](MATLAB_GUI.png)
 
 A GUI application developed using MATLAB App Designer R2024b for the technical and economic analysis of a load profile based on 2 generating stations. It loads and plots data for one daily load profile at a time.
 
