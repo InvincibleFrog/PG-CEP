@@ -2,7 +2,7 @@
 Prepared a generating station cost analysis and design for a load profile, with diesel and nuclear as the selected options, as part of a Complex Engineering Problem (CEP) for the EE-414 Power Generation course in BE-Electrical Engineering at NEDUET.
 
 ## Project Report
-Details of the project are summarised in the [Project Report](https://github.com/moeed17/PG-CEP/blob/main/PG%20CEP%20Report.pdf).
+Details of the project are summarised in the [Project Report](https://github.com/InvincibleFrog/PG-CEP/blob/main/PG_CEP-merged.pdf).
 
 ## Deliverables
 MATLAB GUI Application
