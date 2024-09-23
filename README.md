@@ -23,3 +23,6 @@ Economical Parameters: Capital Cost, Interest and Depreciation, Maintenance Cost
 **Selected Generating Stations are:**
 1. Nuclear Power Station 
 2. Diesel Power Station
+
+## THE MAIN CODE FOR THE GUI IS AVAILABLE ##
+[GUI Code](https://github.com/InvincibleFrog/PG-CEP/blob/main/PG_CEP.mlapp)
