@@ -1,53 +1,22 @@
 # PG-CEP
-Generating station costing and design for load profiles of 6 different countries. Prepared as a Complex Engineering Problem (CEP)-based end-of-semester project for EE-411 Power Generation (Fall 2023) as part of BE-Electrical Engineering at NEDUET.
+Prepared a generating station cost analysis and design for a load profile, with diesel and nuclear as the selected options, as part of a Complex Engineering Problem (CEP) for the EE-414 Power Generation course in BE-Electrical Engineering at NEDUET.
 
 ## Project Report
 Details of the project are summarised in the [Project Report](https://github.com/moeed17/PG-CEP/blob/main/PG%20CEP%20Report.pdf).
-
-## Group Members
-Ali Aman EE-136
-
-[Hammad Ali Khan EE-139](https://github.com/hammaad2002) 
-
-Syeda Rujab EE-154
-
-[Abdul Moeed EE-170](https://github.com/moeed17)
 
 ## Deliverables
 MATLAB GUI Application
 
 ![My Image](Picture1.jpg)
 
-A GUI application for the technical and economic analysis of 6 real-world load profiles. Built with MATLAB App Designer R2020a.
-Loads and plots data for 6 real-world daily load profiles (one at a time).
+A GUI application developed using MATLAB App Designer R2024b for the technical and economic analysis of a load profile based on 2 generating stations. It loads and plots data for one daily load profile at a time.
 
 Allows user to calculate:-
 
-Technical Metrics: load factor, maximum load, base load, average load, units consumed.
+Technical Parameters: Maximum Demand, Energy Per Day, Average Load, Load Factor, Annual Energy, Plant Capacity, Plant Capacity Factor, Plant Use Factor
 
-Economic Metrics: Overall cost per unit generated (two-part or three-part).
+Economical Parameters: Capital Cost, Interest and Depreciation, Maintenance Cost, Fixed Cost, Operating Cost, Variable Cost
 
-## Proposed Generating Station 3D Models
-**Nuclear Station Model**
-
-![My Image](nuclear.PNG)
-
-**Diesel Station Model**
-![My Image](diesel.PNG)
-
-Designed in SketchUp.
-
-
-**Proposed designs are:**
-1. Nuclear Power Station Design
-2. Diesel Power Station Design
-
-**Designs account for:**
-
--Generator dimensions and spacing requirements.
-
--Transmission yard and relevant equipment.
-
--Fuel transportation and storage requirements.
-
--Heat rejection and exhaust systems.
+**Selected Generating Stations are:**
+1. Nuclear Power Station 
+2. Diesel Power Station
